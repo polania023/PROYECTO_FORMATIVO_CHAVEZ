@@ -1,2 +1,2 @@
 # PROYECTO_FORMATIVO_CHAVEZ
-proyecto formativo de el sena para un supermercado llamado la economia ubicado en juan rey
+proyecto formativo de el Sena para un supermercado llamado LA ECONOMIA ubicado en juan rey
